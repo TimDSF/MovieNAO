@@ -1,0 +1,165 @@
+Question 0:2046的评分是多少
+Answer 0:
+	7.0
+
+Question 1:我是谁是哪一年的电影
+Answer 1:
+	1998-01-17
+
+Question 2:我是谁的格调是什么
+Answer 2:
+	冒险
+	动作
+	喜剧
+	惊悚
+
+Question 3:我是谁的剧情是什么
+Answer 3:
+	三名科学家在非洲大陆发现了一种神秘的矿石，这种矿石具有极强的杀伤力。就在这三名科学家携带矿石返回的途中，美国中央情报局派出了由11名来自不同国家的特种兵组成的特别行动小队将科学家和他们成果劫持了。情报局内部出现了内鬼，想把这一成果据为己有。于是，他命令负责接应的飞行员制造了一次空难，以此来杀人灭口和掩饰其已夺取了成果。特别行动小队几乎全军复灭，只有队员杰克（成龙 饰）侥幸逃生。当杰克被当地的土著救活时，他因剧烈的碰撞而丧失了所有记忆，自己的名字、来历通通都一无所知。他逢人只会问“我是谁”。为了查明自己的身世，杰克回到了纽约……
+
+Question 4:警察故事4之简单任务有哪些演员出演
+Answer 4:
+	成龙
+	Ken Lo
+	Bill Tung
+	吴辰君
+
+Question 5:巩俐是谁
+Answer 5:
+	新加坡华裔女演员，祖籍中国山东，毕业于中央戏剧学院，联合国促进和平艺术家，联合国全球环境保护大使。1987年，因主演电影《红高粱》成名，该片获得柏林电影节金熊奖。1992年，凭借主演的电影《秋菊打官司》获得威尼斯国际电影节最佳女演员奖，该片亦获得金狮奖。1993年，主演的电影《霸王别姬》获得金棕榈奖，因而巩俐成为世界影史第二位主演影片包揽欧洲三大国际电影节影片奖的演员。1993年，获得柏林国际电影节金摄影机奖并上榜美国《人物》全球最美50人。1996年，登上美国《时代周刊》封面并上榜全球十大人物。1997年，担任戛纳国际电影节评委会成员。2000年，担任柏林国际电影节评委会主席；同年，获得蒙特利尔国际电影节最佳女演员奖及艺术成就大奖。2002年，担任威尼斯国际电影节评委会主席。2003年，担任东京国际电影节评委会主席。2004年，获得戛纳国际电影节纪念大奖；同年，上榜美国《首映》影史百大伟大表演。2005年，入选中国电影百年50位有突出贡献艺术家。2006年，上榜美国《时代周刊》60年亚洲英雄；同年，上榜美国《华盛顿邮报》全球年度5位伟大演员。2010年，法国文化部授予其“艺术与文学勋章”司令勋位。2014年，担任上海国际电影节评委会主席；同年，二度上榜日本《电影旬报》百大外国女星。2015年，入选联合国16位影响人类文化艺术家。
+
+Question 6:葛优演过哪些喜剧片电影
+Answer 6:
+	Mei Wan Mei Liao
+	Tao hua yun
+	甲方乙方
+	一步之遥
+	非诚勿扰
+	Si Ren Ding Zhi
+	Wan Zhu
+	大腕
+	Keep Cool
+	非诚勿扰2
+	不见不散
+	让子弹飞 / Let the Bullets Fly
+
+Question 7:葛优演过什么电影
+Answer 7:
+	罗曼蒂克消亡史
+	Mei Wan Mei Liao
+	大腕
+	卡拉是条狗
+	不见不散
+	建国大业
+	大撒把
+	Sacrifice
+	Shanghai Red
+	Qin Song
+	Si Ren Ding Zhi
+	一步之遥
+	决战食神
+	Keep Cool
+	Lie huo jin gang
+	Wan Zhu
+	Daihao meizhoubao
+	霸王别姬
+	Nuren taxi nuren
+	天下无贼
+	甲方乙方
+	非诚勿扰2
+	Guo nian
+	黄河谣
+	Ye yan
+	半生缘
+	手机
+	Zhixi
+	蝴蝶的微笑
+	Tao hua yun
+	非诚勿扰
+	活着
+	Sheng xia and her fiance
+	让子弹飞 / Let the Bullets Fly
+
+Question 8:张国荣有什么评分大于6的电影
+Answer 8:
+	倩女幽魂II人间道
+	纵横四海
+	鎗王
+	东邪西毒：终极版
+	Gau sing biu choi
+	Gam chi yuk sip
+	Ye Ban Ge Sheng
+	家有囍事
+	为你锺情
+	射鵰英雄传之东成西就
+	新上海滩
+	霸王别姬
+	Yang guo yu xiao long nu
+	Ying hung boon sik II
+	白发魔女传
+	All's Well End's Well Too
+	春光乍洩
+	烈火青春
+	倩女幽魂
+	Sheng dan kuai le
+	胭脂扣
+	阿飞正传
+	东邪西毒
+	英雄本色
+	风月
+	色情男女
+
+Question 9:张国荣有什么评分小于3的电影
+Answer 9:
+	流星语
+	Daai foo ji ga
+	喝采
+	Ji de... xiang jiao cheng shu shi II: Chu lian qing ren
+	柠檬可乐
+	Lam Gong juen ji fan fei jo fung wan
+	Qiu ai fan dou xing
+	锦绣前程
+	Sip si ling dou - cheun gwong tsa sit
+	三文治
+	左右情缘
+	鼓手
+	恋战冲绳
+	缘份
+	烟飞烟灭
+	第一次
+	失业生
+	龙凤智多星
+	偶然
+	Da san yuan
+	Chong ji 21
+	杀之恋
+
+Question 10:葛优演过什么风格的电影
+Answer 10:
+	冒险
+	纪录
+	剧情
+	喜剧
+	历史
+	悬疑
+	爱情
+	恐怖
+	惊悚
+	奇幻
+	战争
+	动作
+
+Question 11:巩俐和葛优演过什么电影
+Answer 11:
+	活着
+	Daihao meizhoubao
+	霸王别姬
+
+Question 12:成龙一共演过多少电影
+Answer 12:
+	179
+
+Question 13:成龙是哪天生的
+Answer 13:
+	1954-04-07
+
